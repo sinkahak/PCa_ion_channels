@@ -7,7 +7,7 @@
 ### This repository contains the code to perform data processing and analyses related to Figure 5 in the manuscript.
 
 ### Description of the files:
-- **ion_channel_single_cell.yml*: Package versions
+- **ion_channel_single_cell.yml**: Package versions
 
 - **Chen_et_al_process_and_visualize.py**: Processing scRNA-seq data from Chen et al 2021 (https://doi.org/10.1038/s41556-020-00613-6, GEO: GSM4203181)
 
