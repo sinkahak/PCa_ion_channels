@@ -1,0 +1,93 @@
+﻿gene_id_hgnc;cell_type_toPlot;cell_type_main;cell_type_sub
+KLK3;Lum;Epithelial;Luminal 
+KLK2;Lum;Epithelial;Luminal 
+KLK4;Lum;Epithelial;Luminal 
+ACPP;Lum;Epithelial;Luminal 
+AR;Lum;Epithelial;Luminal
+EPCAM;Lum;Epithelial;Luminal
+KRT18;Lum;Epithelial;Luminal
+MSMB;Lum;Epithelial;Luminal
+KRT8;Lum;Epithelial;Luminal
+AMACR;Lum;Epithelial;Luminal
+ERG;Lum;Epithelial;Luminal
+PCA3;Lum;Epithelial;Tumor
+KRT19;Lum;Epithelial;Luminal
+SCGB1A1;Club;Epithelial;Club
+CP;Club;Epithelial;Club
+LTF;Club;Epithelial;Club
+MMP7;Club;Epithelial;Club
+PIGR;Club;Epithelial;Club
+CXCR2;Club;Epithelial;Club
+KRT4;Club;Epithelial;Club
+KRT13;Hill;Epithelial;Hillock
+KRT5;Basal;Epithelial;Basal
+TP63;Basal;Epithelial;Basal
+KRT14;Basal;Epithelial;Basal
+KRT15;Basal;Epithelial;Basal
+CHGA;Neuro;Epithelial;Neuroendocrine
+SCG2;Neuro;Epithelial;Neuroendocrine
+MYCN;Neuro;Epithelial;Neuroendocrine
+SYP;Neuro;Epithelial;Neuroendocrine
+INSM1;Neuro;Epithelial;Neuroendocrine
+ASCL1;Neuro;Epithelial;Neuroendocrine
+NEUROD1;Neuro;Epithelial;Neuroendocrine
+PECAM1;Endo;Endothelial;Endothelial
+AQP1;Endo;Endothelial;Endothelial
+IFI27;Endo;Endothelial;Endothelial
+VWF;Endo;Endothelial;Endothelial
+ACKR1;Endo;Endothelial;Endothelial
+PLVAP;Endo;Endothelial;Endothelial
+SELE;Endo;Endothelial;Endothelial
+ENG ;Endo;Endothelial;Endothelial
+RAMP2;Endo;Endothelial;Endothelial
+CTLA4;T;T cell;Treg
+FOXP3;T;T cell;Treg
+SELL;T;T cell;T cell naïve
+CD3E;T;T cell;T cell
+CD3D;T;T cell;T cell
+CD3G;T;T cell;T cell
+IL7R;T;T cell;T cell
+IL2RA;T;T cell;T cell
+CD2;T;T cell;T cell
+CD8A;T;T cell;CD8+ T cell
+CD8B;T;T cell;CD8+ T cell
+CD4;T;T cell;CD4+ T cell
+C1QA;Myeloid;Myeloid;Myeloid
+C1QB;Myeloid;Myeloid;Myeloid
+C1QC;Myeloid;Myeloid;Myeloid
+CD68;Myeloid;Myeloid;Myeloid
+LYZ;Myeloid;Myeloid;Myeloid
+FCN1;Myeloid;Myeloid;Myeloid
+HLA-DRA;Myeloid;Myeloid;Myeloid
+HLA-DBP1;Myeloid;Myeloid;Myeloid
+IL1B;Myeloid;Myeloid;Myeloid
+CD16;Myeloid;Myeloid;Myeloid
+CD163;Macro;Macrophage;Macrophage
+CD14;Macro;Macrophage;Macrophage
+MPO;Neutro;Neutrophil;Neutrophil
+CD18;Neutro;Neutrophil;Neutrophil
+CD11A;Neutro;Neutrophil;Neutrophil
+CD11B;Neutro;Neutrophil;Neutrophil
+CD79A;B;B cell;B cell
+CD79B;B;B cell;B cell
+MS4A1;B;B cell;B cell
+CD22;B;B cell;B cell
+MZB1;B;B cell;B cell
+KLRD1;NK;NK cell;NK cell
+GNLY;NK;NK cell;NK cell
+NKG7;NK;NK cell;NK cell
+CPA3;Mast;Mast;Mast
+TPSAB1;Mast;Mast;Mast
+KIT;Mast;Mast;Mast
+TPSB2;Mast;Mast;Mast
+MS4A2;Mast;Mast;Mast
+DCN;Stroma;Stromal;Fibroblasts
+LUM;Stroma;Stromal;Fibroblasts
+FBLN1;Stroma;Stromal;Fibroblasts
+APOD;Stroma;Stromal;Fibroblasts
+ACTA2;Stroma;Stromal;Smooth muscle 
+DES;Stroma;Stromal;Smooth muscle 
+MCAM;Stroma;Stromal;Smooth muscle 
+PLP1;Stroma;Stromal;Nervous system
+S100B;Stroma;Stromal;Nervous system
+MPZ;Stroma;Stromal;Nervous system
