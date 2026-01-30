@@ -160,12 +160,10 @@ gene_list_filt = list(set(gene_list) - set(genes_not_present))
 
 # plot without scaling first
 dp1=sc.pl.dotplot(adata, var_names=gene_list_filt, groupby='celltypes', dendrogram=True, show=False, return_fig=True)
-dp1.add_dendrogram(show=True)
 dp1.style(cmap='flare')
 dp1.savefig(f'{datadir}/figures/Dong_scRNA_dotplot_ion_channels_subset_celltype.pdf', dpi=300, pad_inches=0.5)
 
 # do scaling
 dp2=sc.pl.dotplot(adata, var_names=gene_list_filt, groupby='celltypes', dendrogram=True, show=False, return_fig=True, standard_scale='var')
-dp2.add_dendrogram(show=True)
 dp2.style(cmap='flare')
 dp2.savefig(f'{datadir}/figures/Dong_scRNA_dotplot_ion_channels_subset_celltype_scaled.pdf', dpi=300, pad_inches=0.5)
